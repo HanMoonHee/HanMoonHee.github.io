@@ -1,8 +1,8 @@
-title: Stack Problems
+title: List
 description: My Personal Stack Problems
-author: Agus Makmun
-github: https://github.com/agusmakmun
-about: I'm Programmer for Python & Django. I've made quite a few web apps, especially on Django.
+author: 한문희
+github: https://github.com/hanmoonhee
+about: 웹 디자이너, 퍼블리셔, 프론트앤드 개발자 경력이있습니다. 지금은 JAVA언어 공부중입니다.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
 avatar_url: /static/img/avatar.jpg
@@ -25,7 +25,7 @@ social:
     - icon: fa-stack-exchange
       link: "#"
     - icon: fa-github
-      link: "https://github.com/agusmakmun"
+      link: "https://github.com/hanmoonhee"
 
 share:
   twitter_username: github.io
@@ -39,7 +39,7 @@ urls:
     - text: XML Feed
       url: /feed.xml
 
-url: "https://agusmakmun.github.io"
+url: "https://hanmoonhee.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
