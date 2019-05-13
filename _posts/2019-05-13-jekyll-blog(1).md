@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "윈도우에서 지킬설치 및 블로그생성하기"
-date:   2019-05-13 18:34:10 +0700
-# date:   2016-12-29 18:34:10 +0700
+# date:   2019-05-13 18:34:10 +0700
+date:   2019-05-13 00:00:00 +0700
 categories: [jekyll, ruby]
 ---
 
@@ -16,8 +16,12 @@ categories: [jekyll, ruby]
 2. 루비를 이용하여 지킬설치하기
 3. 로컬에서 블로그 생성하기
 
-## 1. 루비설치하기
+<hr>
 
+## 1. 루비설치하기
+루비 인스톨러 다운로드 페이지에서 Ruby+Devkit 2.5.5-1 (x64) 개발자킷 설치 프로그램을 다운로드 후 설치합니다.
+<img src="../static/img/_post/jekyllBlog/ruby_install.png">
+![ex_screenshot](/static/img/_post/jekyllBlog/ruby_install.png)
 
 
 ----------------
