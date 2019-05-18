@@ -2,7 +2,7 @@
 	{
 		"slug": "cool-project",
 		"name": "Arcadia",
-		"image": "placeholder.png",
+		"image": "arcadia.png",
 		"url": "https://hanmoonhee.github.io/arcadia/arcadia.html",
 		"date": "May 2019",
 		"tags": ["HTML","RESPONSIVE"]
