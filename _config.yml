@@ -36,8 +36,10 @@ urls:
       url: /about/
     - text: My Projects
       url: /projects/
-    - text: XML Feed
-      url: /feed.xml
+    - text: Category
+      url: /category/jekyll
+    # - text: XML Feed
+    #   url: /feed.xml
 
 url: "https://hanmoonhee.github.io"
 baseurl: ""
