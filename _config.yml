@@ -1,4 +1,4 @@
-title: List
+title: all
 description: My Personal Stack Problems
 author: 한문희
 github: https://github.com/hanmoonhee
@@ -45,6 +45,7 @@ url: "https://hanmoonhee.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20
+# paginator_path: "/category/page:num/"
 paginate_path: "/page/:num/"
 markdown: kramdown
 gems:
