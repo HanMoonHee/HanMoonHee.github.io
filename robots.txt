@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://hanmoonhee.github.io/sitemap.xml
