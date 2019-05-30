@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[Jekyll]윈도우에서 지킬설치 및 블로그생성하기"
+title:  "[Jekyll]윈도우에서 루비를 이용하여 지킬설치 및 블로그 생성하기"
 # date:   2019-05-13 18:34:10 +0700
 date:   2019-05-13 00:00:00 +0700
 categories: [jekyll]
