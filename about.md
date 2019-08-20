@@ -14,9 +14,22 @@ permalink: /about/
 
 스포츠를 좋아하고 산책을 좋아합니다.
 
-요즘은 블로그를 만들고 나만의 컨텐츠를 만들고 공부하며 개발하는거에 흥미가 생겼습니다.
+요즘은 블로그를 만들고 나만의 컨텐츠를 만들고 공부하며 개발하는것에 흥미가 생겼습니다.
 
 반갑습니다.
+
+----
+
+**경력사항**
+
+2013.06 ~ 2015.03 - 몬스트로 (Web Design, Web Publish)
+
+2015.04 ~ 2016.05 - 은성실크 (Web Design, Web Publish)
+
+2016.11 ~ 2017.07 - 모든세븐 (Web Design, Web Publish)
+
+2018.03 ~ 2019.03 - 스튜디오 헤이데이 (Web Publish, Web Front End Develop)
+
 
 **email: mun01180@gmail.com**
 
