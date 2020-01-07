@@ -3,7 +3,7 @@ layout: post
 title:  "[Memo] 개발언어 메모하기"
 # date:   2019-05-13 18:34:10 +0700
 date:   2019-10-14 00:00:00 +0700
-categories: [memo]
+categories: [common]
 ---
 
 ##### NODE JS - 노드제이에스는 서버 사이드 자바스크립트로, 서버 측에서 실행되는 자바스크립트 실행 환경을 의미
