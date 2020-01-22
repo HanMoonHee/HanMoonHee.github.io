@@ -71,6 +71,10 @@ categories: [common]
 ##### HTTP(HyperText Transfer Protocol) - 브라우저와 서버 간에 데이터를 주고받는 통신 프로토콜 (ex. ajax)
 <br>
 
+##### 브라우저 저장소의 종류
+###### 1. 로컬 스토리지, 2. 세션 스토리지, 3. 인덱스드 디비
+<br>
+
 ## 2. Vue.JS
 ##### Root component - 뷰 애플리케이션을 실행할 때 가장 근간이 되는 컴포넌트이자 최상위 컴포넌트를 의미
 ##### VIEW INSTANCE - 뷰로 화면을 개발하기 위해 필수적으로 생성해야 하는 기본 단위 (new Vue({});)
