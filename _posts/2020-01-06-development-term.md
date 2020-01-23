@@ -16,6 +16,19 @@ categories: [common]
 ##### NPM(NODE PACKAGE MANAGER) - 전 세계의 자바스크립트 라이브러리를 모아놓은 공개 저장
 <br>
 
+##### 프로토콜(Protocol) - 컴퓨터나 단말기 간에 통신하기 위해 상호간에 정의한 규칙
+##### HTTP(HyperText Transfer Protocol) - 브라우저와 서버 간에 데이터를 주고받는 통신 프로토콜 (ex. ajax)
+<br>
+
+##### 브라우저 저장소의 종류
+###### 1. 로컬 스토리지, 2. 세션 스토리지, 3. 인덱스드 디비
+<br>
+
+## 0. 디자인 패턴
+
+##### 단일 책임 원칙(Single Responsibility Principle) - 함수 하나가 하나의 기능만 담당하도록 설계하는 객체 지향 프로그래밍의 디자인 패턴
+
+
 ## 1. JAVA
 
 ####  JAVA의 좋은 점
@@ -65,14 +78,6 @@ categories: [common]
 ##### protected - 같은 패키지 내에서, 그리고 자른 패키지의 자손클래스에서 접근이 가능
 ##### public - 접근 제한이 없다
 ##### public > protected > default > private
-<br>
-
-##### 프로토콜(Protocol) - 컴퓨터나 단말기 간에 통신하기 위해 상호간에 정의한 규칙
-##### HTTP(HyperText Transfer Protocol) - 브라우저와 서버 간에 데이터를 주고받는 통신 프로토콜 (ex. ajax)
-<br>
-
-##### 브라우저 저장소의 종류
-###### 1. 로컬 스토리지, 2. 세션 스토리지, 3. 인덱스드 디비
 <br>
 
 ## 2. Vue.JS
