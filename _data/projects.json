@@ -1,19 +1,11 @@
 [
 	{
 		"slug": "cool-project",
-		"name": "Arcadia",
-		"image": "arcadia.png",
-		"url": "https://hanmoonhee.github.io/arcadia/arcadia.html",
-		"date": "May 2019",
-		"tags": ["JAVASCRIPT","MediaQuery"]
-	},
-	{
-		"slug": "cool-project",
-		"name": "Easypub",
-		"image": "easypub.png",
-		"url": "https://hanmoonhee.github.io/easypub/index.html",
-		"date": "May 2019",
-		"tags": ["JAVASCRIPT","JQUERY"]
+		"name": "Mint",
+		"image": "mint.jpg",
+		"url": "https://github.com/HanMoonHee/mint",
+		"date": "Oct 2019",
+		"tags": ["JAVASCRIPT","JQUERY","JAVA","JSP","SPRING","SQL"]
 	},
 	{
 		"slug": "cool-project",
@@ -25,10 +17,18 @@
 	},
 	{
 		"slug": "cool-project",
-		"name": "Mint",
-		"image": "mint.jpg",
-		"url": "https://github.com/HanMoonHee/mint",
-		"date": "Oct 2019",
-		"tags": ["JAVASCRIPT","JQUERY","JAVA","SQL","JSP"]
+		"name": "Easypub",
+		"image": "easypub.png",
+		"url": "https://hanmoonhee.github.io/easypub/index.html",
+		"date": "May 2019",
+		"tags": ["JAVASCRIPT","JQUERY"]
+	},
+	{
+		"slug": "cool-project",
+		"name": "Arcadia",
+		"image": "arcadia.png",
+		"url": "https://hanmoonhee.github.io/arcadia/arcadia.html",
+		"date": "May 2019",
+		"tags": ["JAVASCRIPT","MediaQuery"]
 	}
 ]
