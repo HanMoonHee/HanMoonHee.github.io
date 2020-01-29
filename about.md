@@ -22,63 +22,6 @@ permalink: /about/
 
 **Skill**
 <div id="chartContainer" style="height: 300px; width: 100%;"></div>
-<!--
-<br />
-HTML / CSS / MediaQuery - 업무를 진행하는데 큰 문제가없고 display flex를 이용한 박스모델링은 좀 더 많은 경험이 필요로할것같다. svg, css animation을 알아야한다.
-
-Javascript / ECMA6 - 작업시 라이브러리, 프레임워크를 의존하는편이고 pure한 Javascript나 ES6를 더 공부해아한다.
--->
-
-<script>
-window.onload = function () {
-
-//Better to construct options first and then pass it as a parameter
-var options = {
-	animationEnabled: true,
-	title: {
-		text: "",                
-		fontColor: "Peru"
-	},
-	axisY: {
-		tickThickness: 0,
-		lineThickness: 0,
-		valueFormatString: " ",
-		gridThickness: 0                    
-	},
-	axisX: {
-		tickThickness: 0,
-		lineThickness: 0,
-		labelFontSize: 18,
-		labelFontColor: "Peru"				
-	},
-	data: [{
-		indexLabelFontSize: 14,
-		toolTipContent: "<span style=\"color:#62C9C3\">{indexLabel}:</span> <span style=\"color:#CD853F\"><strong>{y}</strong></span>",
-		indexLabelPlacement: "inside",
-		indexLabelFontColor: "white",
-		indexLabelFontWeight: 400,
-		indexLabelFontFamily: "Verdana",
-		color: "#62C9C3",
-		type: "bar",
-		dataPoints: [
-			{ y: 60, label: "60%", indexLabel: "Git / Github" },
-			{ y: 30, label: "30%", indexLabel: "SQL / MYSQL" },
-			{ y: 55, label: "55%", indexLabel: "Spring" },
-			{ y: 40, label: "40%", indexLabel: "JAVA" },
-			{ y: 70, label: "70%", indexLabel: "AJAX" },
-			{ y: 40, label: "40%", indexLabel: "Vue" },
-			{ y: 70, label: "70%", indexLabel: "Jquery" },
-			{ y: 50, label: "50%", indexLabel: "Javascript / ECMA6" },
-			{ y: 90, label: "90%", indexLabel: "HTML / CSS / MediaQuery" }
-		]
-	}]
-};
-
-$("#chartContainer").CanvasJSChart(options);
-
-$(".canvasjs-chart-credit").css("display", "none");
-}
-</script>
 
 <br />
 
@@ -116,6 +59,55 @@ $(".canvasjs-chart-credit").css("display", "none");
 
 <br />
 
-
-
 **email: mun01180@gmail.com**
+
+<script>
+window.onload = function () {
+
+//Better to construct options first and then pass it as a parameter
+var options = {
+	animationEnabled: true,
+	title: {
+		text: "",                
+		fontColor: "Peru"
+	},
+	axisY: {
+		tickThickness: 0,
+		lineThickness: 0,
+		valueFormatString: " ",
+		gridThickness: 0                    
+	},
+	axisX: {
+		tickThickness: 0,
+		lineThickness: 0,
+		labelFontSize: 18,
+		labelFontColor: "Peru"				
+	},
+	data: [{
+		indexLabelFontSize: 14,
+		toolTipContent: "<span style=\"color:#62C9C3\">{indexLabel}:</span> <span style=\"color:#CD853F\"><strong>{y}</strong></span>",
+		indexLabelPlacement: "inside",
+		indexLabelFontColor: "white",
+		indexLabelFontWeight: 400,
+		indexLabelFontFamily: "Verdana",
+		color: "#62C9C3",
+		type: "bar",
+		dataPoints: [
+			{ y: 60, label: "60%", indexLabel: "Git / Github" },
+			{ y: 30, label: "30%", indexLabel: "SQL / MYSQL" },
+			{ y: 55, label: "55%", indexLabel: "Spring / Jsp" },
+			{ y: 40, label: "40%", indexLabel: "JAVA" },
+			{ y: 70, label: "70%", indexLabel: "AJAX" },
+			{ y: 40, label: "40%", indexLabel: "Vue" },
+			{ y: 70, label: "70%", indexLabel: "Jquery" },
+			{ y: 50, label: "50%", indexLabel: "Javascript / ECMA6" },
+			{ y: 90, label: "90%", indexLabel: "HTML / CSS / MediaQuery" }
+		]
+	}]
+};
+
+$("#chartContainer").CanvasJSChart(options);
+$(".canvasjs-chart-credit").css("display", "none");
+
+}
+</script>
