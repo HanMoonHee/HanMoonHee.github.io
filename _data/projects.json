@@ -3,7 +3,7 @@
 		"slug": "cool-project",
 		"name": "Mint",
 		"image": "mint.jpg",
-		"url": "https://github.com/HanMoonHee/mint",
+		"url": "https://github.com/moony01/mint",
 		"date": "Oct 2019",
 		"tags": ["JAVASCRIPT","JQUERY","JAVA","JSP","SPRING","SQL"]
 	},
@@ -19,7 +19,7 @@
 		"slug": "cool-project",
 		"name": "Easypub",
 		"image": "easypub.png",
-		"url": "https://hanmoonhee.github.io/easypub/index.html",
+		"url": "https://moony01.github.io/easypub/index.html",
 		"date": "May 2019",
 		"tags": ["JAVASCRIPT","JQUERY"]
 	},
@@ -27,7 +27,7 @@
 		"slug": "cool-project",
 		"name": "Arcadia",
 		"image": "arcadia.png",
-		"url": "https://hanmoonhee.github.io/arcadia/arcadia.html",
+		"url": "https://moony01.github.io/arcadia/arcadia.html",
 		"date": "May 2019",
 		"tags": ["JAVASCRIPT","MediaQuery"]
 	}
