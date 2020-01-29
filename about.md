@@ -64,7 +64,6 @@ permalink: /about/
 <script>
 window.onload = function () {
 
-//Better to construct options first and then pass it as a parameter
 var options = {
 	animationEnabled: true,
 	title: {
