@@ -8,6 +8,16 @@ categories: [oracle]
 
 <br />
 
+### 테이블 생성
+~~~
+create table member(
+    id varchar2(30) primary key,
+    nickName varchar2(30) not null,
+    email varchar2(50),
+    logtime date default sysdate
+);
+~~~
+
 ### 데이터 개수
 ~~~
 select count(*) from tableName
@@ -18,10 +28,10 @@ select count(*) from tableName
 drop table tableName
 ~~~
 
-### 특정 개수만큼 테이블 목록 불러오기 
+### 특정 개수만큼 테이블 목록 불러오기
 ~~~
 <![CDATA[
-    select * from 
+    select * from
     (select rownum rn, tt. * from
     (select * from tableName order by seq desc)tt
     )where rn>=#{startNum} and rn<=#{endNum}
@@ -37,7 +47,7 @@ select * from
 (select rownum rn, tt. * from
 (select * from tableName where
 <foreach collection="checkbox" item="check" index="i" separator="or">
-    ${checkbox[i]} like '%'||#{keyword}||'%' 
+    ${checkbox[i]} like '%'||#{keyword}||'%'
 </foreach>
 order by seq asc)tt
 <![CDATA[
