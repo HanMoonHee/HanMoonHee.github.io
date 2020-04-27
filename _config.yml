@@ -1,7 +1,7 @@
 title: all
 description: My Personal Stack Problems
-author: hanmoonhee
-github: https://github.com/hanmoonhee
+author: moony01
+github: https://github.com/moony01
 about: 웹 디자인, 퍼블리싱, 프론트앤드 개발을 하였습니다.
 disqus_shortname: stackproblems
 google_analytics: UA-XXXXXXXX-Y
@@ -25,7 +25,7 @@ social:
     # - icon: fa-stack-exchange
     #   link: "#"
     - icon: fa-github
-      link: "https://github.com/hanmoonhee"
+      link: "https://github.com/moony01"
     - icon: fa-codepen
       link: "https://codepen.io/hanmoonhee/"
 
@@ -43,7 +43,7 @@ urls:
     # - text: XML Feed
     #   url: /feed.xml
 
-url: "https://hanmoonhee.github.io"
+url: "https://moony01.github.io"
 baseurl: ""
 paginate: 20
 per_page: 20

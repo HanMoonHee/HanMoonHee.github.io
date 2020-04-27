@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "[spring]mybatis mapping 에러 떄 확인 해야할 것 중 하나"
+title:  "[spring]mybatis mapping 에러 때 확인 해야할 것 중 하나"
 # date:   2019-05-13 18:34:10 +0700
 date:   2020-03-07 00:00:00 +0700
 categories: [spring]
