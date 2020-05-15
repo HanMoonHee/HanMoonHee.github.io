@@ -15,10 +15,11 @@ categories: [spring]
 # servlet-context.xml
 1. VIEW 지원 빈 설정
 2. 컨트롤러, 인터셉터
+3. CSS, JS, ASSET, IMAGE 폴더 등 을 MAPPING
 
 # root-context.xml
 1. VIEW 지원을 제외한 스프링에서 공유하는 공통 빈 설정
-2. 서비서, 레파지토리
+2. 서비스, 레파지토리
 
 # globals.properties
 1. 데이터 베이스 접속 정보
