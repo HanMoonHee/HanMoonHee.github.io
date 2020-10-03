@@ -6,18 +6,13 @@ permalink: /about/
 
 안녕하세요, 저는 한문희입니다.
 
-디자인을 좋아하고 퍼블리싱업무를 주로 했었습니다.
+웹 관련 디자이너 퍼블리셔 프론트앤드 개발경력이 있고
 
-기본적인 수준의 프론트개발 경험이 있습니다.
+지금은 SI업무를 주로 하고있으며 웹 풀스텍 개발을 하고있습니다.
 
-지금은 자바언어를 위주로 공부중입니다.
-
-스포츠를 좋아하고 산책을 좋아합니다.
-
-요즘은 블로그를 만들고 나만의 컨텐츠를 만들고 공부하며 개발하는것에 흥미가 생겼습니다.
+주 언어는 자바입니다.
 
 반갑습니다.
-
 ----
 
 **Skill**
@@ -27,11 +22,13 @@ permalink: /about/
 
 **경력**
 
-2018.03 ~ 2019.04 - 스튜디오 헤이데이 (Web Publish, Web Front End Develop)
+2020.05 ~         - 아이티키 (Web Fullstack Developer, JAVA Developer)
 
-2016.11 ~ 2017.08 - 모든세븐 (Web Design, Web Publish)
+2018.03 ~ 2019.04 - 스튜디오 헤이데이 (Web Publisher, Web Front End Developer)
 
-2014.04 ~ 2016.03 - 몬스트로 (Web Design, Web Publish)
+2016.11 ~ 2017.08 - 모든세븐 (Web Designer, Web Publisher)
+
+2014.04 ~ 2016.03 - 몬스트로 (Web Designer, Web Publisher)
 
 <br />
 
@@ -47,15 +44,19 @@ permalink: /about/
 
 **프로젝트**
 
-2019.11~2019.12 MINT 쇼핑몰 프로젝트(포트폴리오)
+2020.09~        KAC(코리아오토글라스) ERP 시스템 구축 - [ORACLE, JAVA, SPRING, JAVASCRIPT, WebSquare, Jquery, SVN]
 
-2019.08~2019.09 일본제품 불매 및 친일청산 범국민 서명운동 웹프로그램 사이트
+2020.06~2020.08 NAVER LINE BANK 대만 웹사이트 개발 및 품질관리 - [ORACLE, JAVA, SPRING, JAVASCRIPT, GIT, ZIRA]
 
-2018.07~2019.02 삼성생명 FDP 프로젝트
+2019.11~2019.12 MINT 쇼핑몰 프로젝트(포트폴리오) - [Oracle, Java, Spring, Javascript]
 
-2018.03~2018.06 한샘 몰 유지보수, 기획전 프런트 개발
+2019.08~2019.09 일본제품 불매 및 친일청산 범국민 서명운동 웹프로그램 사이트 - [MySql, Php, Javascript]
 
-2017.01~2017.08 종로학원 8개 지점 유지보수
+2018.07~2019.02 삼성생명 FDP 프로젝트 - [Html5, Css3, VueJS, GIT]
+
+2018.03~2018.06 한샘 몰 유지보수, 기획전 프런트 개발 - [JAVA, SPRING, Html5, Css3, Javascript, Jquery, SVN]
+
+2017.01~2017.08 종로학원 8개 지점 유지보수 - [PhotoShop, Html5, Css3]
 
 <br />
 
@@ -93,14 +94,13 @@ window.onload = function() {
       color: "#62C9C3",
       type: "bar",
       dataPoints: [
-        { y: 60, label: "60%", indexLabel: "Git / Github" },
-        { y: 30, label: "30%", indexLabel: "SQL / MYSQL" },
-        { y: 55, label: "55%", indexLabel: "Spring / Jsp" },
-        { y: 40, label: "40%", indexLabel: "JAVA" },
+        { y: 80, label: "80%", indexLabel: "Git / SVN" },
+        { y: 60, label: "60%", indexLabel: "SQL / MYSQL" },
+        { y: 60, label: "60%", indexLabel: "Spring" },
+        { y: 70, label: "70%", indexLabel: "JAVA" },
         { y: 70, label: "70%", indexLabel: "AJAX" },
-        { y: 40, label: "40%", indexLabel: "Vue" },
-        { y: 70, label: "70%", indexLabel: "Jquery" },
-        { y: 50, label: "50%", indexLabel: "Javascript / ECMA6" },
+        { y: 70, label: "70%", indexLabel: "WebSquare" },
+        { y: 70, label: "70%", indexLabel: "Javascript / ECMA6" },
         { y: 90, label: "90%", indexLabel: "HTML / CSS / MediaQuery" }
       ]
     }]

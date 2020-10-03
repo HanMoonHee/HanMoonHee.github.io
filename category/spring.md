@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
 categories: spring
-title: Spring
+title: spring
 permalink: /category/spring
 ---
