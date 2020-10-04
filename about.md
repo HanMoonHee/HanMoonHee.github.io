@@ -13,7 +13,8 @@ permalink: /about/
 주 언어는 자바입니다.
 
 반갑습니다.
-----
+
+- - -
 
 **Skill**
 <div id="chartContainer" style="height: 300px; width: 100%;"></div>
@@ -22,7 +23,7 @@ permalink: /about/
 
 **경력**
 
-2020.05 ~         - 아이티키 (Web Fullstack Developer, JAVA Developer)
+2020.05 ~ &emsp;&emsp;&emsp;&nbsp;- 아이티키 (Web Fullstack Developer, JAVA Developer)
 
 2018.03 ~ 2019.04 - 스튜디오 헤이데이 (Web Publisher, Web Front End Developer)
 
@@ -44,7 +45,7 @@ permalink: /about/
 
 **프로젝트**
 
-2020.09~        KAC(코리아오토글라스) ERP 시스템 구축 - [ORACLE, JAVA, SPRING, JAVASCRIPT, WebSquare, Jquery, SVN]
+2020.09~ &emsp;&emsp;&emsp;&nbsp;KAC(코리아오토글라스) ERP 시스템 구축 - [ORACLE, JAVA, SPRING, JAVASCRIPT, WebSquare, Jquery, SVN]
 
 2020.06~2020.08 NAVER LINE BANK 대만 웹사이트 개발 및 품질관리 - [ORACLE, JAVA, SPRING, JAVASCRIPT, GIT, ZIRA]
 
