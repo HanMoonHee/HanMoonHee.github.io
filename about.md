@@ -45,13 +45,15 @@ permalink: /about/
 
 **프로젝트**
 
-2020.09~ &emsp;&emsp;&emsp;&nbsp;KAC(코리아오토글라스) ERP 시스템 구축 - [ORACLE, JAVA, SPRING, JAVASCRIPT, WebSquare, Jquery, SVN]
+2020.11~2020.1 국가기록관 업무 시스템 고도화 - [CUBRID, JAVA, E-GOV, JQUERY EASY UI, SVN]
+
+2020.09~2020.10 KAC(코리아오토글라스) ERP 시스템 구축 - [ORACLE, JAVA, SPRING, JAVASCRIPT, WebSquare, Jquery, SVN]
 
 2020.06~2020.08 NAVER LINE BANK 대만 웹사이트 개발 및 품질관리 - [ORACLE, JAVA, SPRING, JAVASCRIPT, GIT, ZIRA]
 
 2019.11~2019.12 MINT 쇼핑몰 프로젝트(포트폴리오) - [Oracle, Java, Spring, Javascript]
 
-2019.08~2019.09 일본제품 불매 및 친일청산 범국민 서명운동 웹프로그램 사이트 - [MySql, Php, Javascript]
+2019.08~2019.09 일본제품 불매 국민 서명운동 웹프로그램 사이트 - [MySql, Php, Javascript]
 
 2018.07~2019.02 삼성생명 FDP 프로젝트 - [Html5, Css3, VueJS, GIT]
 
