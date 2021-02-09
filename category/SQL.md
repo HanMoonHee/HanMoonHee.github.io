@@ -1,6 +1,6 @@
 ---
 layout: posts_by_category
-categories: SQL
+categories: sql
 title: SQL
 permalink: /category/sql
 ---
